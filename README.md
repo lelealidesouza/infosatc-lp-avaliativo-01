@@ -3,7 +3,7 @@
 <p align="center">
 <table border=0>
 <tr>
-<td><img src="satc logo2.png" width=400 heigth=400>
+<td><img src="satc logo2.png" width=300 heigth=300>
 </td>
 <td><b>Curso:</b> Informatica
 <b>Materia:</b> Logica de Programaçao 
